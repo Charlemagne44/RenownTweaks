@@ -1,0 +1,6 @@
+C:\Users\colli\source\repos\RenownTweaks\RenownTweaks\obj\Debug\VexedReborn.csproj.CoreCompileInputs.cache
+C:\Users\colli\source\repos\RenownTweaks\RenownTweaks\obj\Debug\RenownTweaks.dll
+C:\Users\colli\source\repos\RenownTweaks\RenownTweaks\obj\Debug\RenownTweaks.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\RenownTweaks\bin\Win64_Shipping_Client\RenownTweaks.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\RenownTweaks\bin\Win64_Shipping_Client\RenownTweaks.pdb
+C:\Users\colli\source\repos\RenownTweaks\RenownTweaks\obj\Debug\VexedReborn.csproj.CopyComplete
